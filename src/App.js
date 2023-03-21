@@ -1,10 +1,11 @@
-import CalContainer from './components/calContainer/CalContainer';
+
+import Calculator from './components/calculator/calculator';
 
 
 function App() {
   return (
    <div>
-    <CalContainer />
+    <Calculator />
    </div>
   );
 }
